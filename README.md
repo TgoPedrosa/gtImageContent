@@ -1,8 +1,12 @@
 # gtImageContent
 get the image content or get document ROIs, using edges function
 
-# USAGE
+## Requirements
+- pip install numpy
+- pip install opencv-python
+- pip install argparse
 
+## USAGE
 
 ### GetContent
 ```
