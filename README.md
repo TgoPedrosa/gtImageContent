@@ -1,5 +1,5 @@
 # gtImageContent
-get the image content or get document ROIs, using edges function
+get the image content or detect documents ROI, using edges and image processing
 
 ## Requirements
 - pip install numpy
